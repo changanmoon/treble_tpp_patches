@@ -23,3 +23,6 @@ git am --3way ~/tpp/patches/0001-TrebleDroid/platform_.../....patch
 ```bash
 git am --reject ~/tpp/patches/0001-TrebleDroid/platform_.../....patch
 ```
+
+## Credits
+This repository are based on [Mitja Ševerkar](https://github.com/mytja)'s work, so he should be received all the credit.
